@@ -13,6 +13,8 @@ G. Varshith (228R1A6683)
 M. Sai Abhi Ram (228R1A66A5)
 P. Sathwik (228R1A66B1)
 
+[CLICK](https://drive.google.com/file/d/1EoXSN1EF4anIkmUczd7q2vOsKk4CwGDO/view?usp=sharing)
+
 Aim
 The aim of this project is to develop an automatic irrigation and plant watering system using an Arduino Uno. The system monitors soil moisture and waters plants automatically to:
 Ensure proper plant hydration
